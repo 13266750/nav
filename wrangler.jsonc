@@ -1,8 +1,0 @@
-{
-  "name": "nav",
-  "compatibility_date": "2026-01-31",
-  "assets": {
-    "directory": "./dist",
-    "serve_single_page_app": true
-  }
-}
