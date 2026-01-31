@@ -1,0 +1,17 @@
+{
+  "name": "nav", // 你的项目名称
+  "compatibility_date": "2026-01-31",
+  "assets": {
+    "directory": "./dist/browser", // Angular 默认输出到 dist/browser
+    "serve_single_page_app": true
+  },
+  "routes": [
+    {
+      "pattern": "/*",
+      "custom_domain": false
+    }
+  ],
+  "vars": {
+    "ENVIRONMENT": "production"
+  }
+}
